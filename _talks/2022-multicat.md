@@ -8,7 +8,7 @@ date: 2022-04-13
 location: "Japan"
 ---
 
-Quick links: [paper](http://dgt12.github.io/files/pvis22_paper.pdf), [poster](http://dgt12.github.io/files/pvis22_poster.pdf), [preview video](https://www.youtube.com/watch?v=XhXKs92io5I), [supplementary figure](http://dgt12.github.io/files/pvis22_sm.jpg)
+Quick links: [paper](http://dgt12.github.io/files/pvis22_paper.pdf), [poster](http://dgt12.github.io/files/pvis22_poster.pdf), [preview video](https://www.youtube.com/watch?v=XhXKs92io5I), [supplementary figure](http://dgt12.github.io/images/pvis22_sm.jpg)
 
 Recommended citation: Trye, D. (2022, April 11-14). Visualising multivariate categorical data. In <i>Proceedings of the IEEE Pacific Visualization Symposium (PacificVis)</i>, Tsukuba, Japan.
 
