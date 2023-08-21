@@ -1,0 +1,26 @@
+---
+title: "Interactive Techniques for Visualising Categorical Data in Linguistics"
+collection: talks
+type: "Linguistic Society of New Zealand Conference (Virtual Presentation)"
+permalink: /talks/2022-nzls
+venue: "University of Otago"
+date: 2022-12-09
+location: "Dunedin, New Zealand"
+---
+
+Quick links: [slides](http://dgt12.github.io/files/dunedin.pdf)
+
+So much of linguistic analysis involves categorical variables (Levshina, 2015; Stefanowitsch, 2020), from phonological, to lexical and grammatical features (see, for instance, Dryer & Haspelmath, 2013), and even language contact phenomena (Trye et al., 2020). Crucially, though, information visualisation is needed to make sense of large quantities of data. Yet, few visualisation techniques
+support the analysis of more than a handful of categorical variables at the same time. As the size and complexity of datasets continues to increase, more powerful visualisation tools are needed to facilitate their effective exploration. In this talk, I introduce two interactive techniques for visualising multivariate categorical data, which are being developed into free online tools. These techniques can also be applied to datasets of mixed types, provided the continuous variables are appropriately ‘binned’. The functionality of both tools is demonstrated using a COVID-19 Twitter dataset coded for the use of directives and users’ stance towards government measures in New Zealand (Burnette & Calude, 2022).
+
+The first technique I will introduce is the <i>Staircase Plot</i>, which employs a space-efficient, matrixbased layout to display multiple bivariate summaries. The main visualisation is a heatmap depicting all possible two-way contingency tables for the given collection of variables. This allows the user to quickly identify associations between variables, and to detect any cells with zero frequencies or exceedingly low/high counts. The display can also be changed to show proportions or Pearson residuals instead of raw frequencies. Moreover, there is built-in support for the Chi-squared test of independence: all variable pairs that satisfy the criteria are coloured according to the effect size, as
+measured by Cramer’s V. This removes the burden of manual computation, visually reinforces correct interpretations and enables all results to be conveniently displayed in one place. 
+
+The second technique, <i>MultiCat</i> (Trye, 2022), is designed for examining higher-order categorical relationships: that is, multivariate rather than pairwise associations. The display enables the comparison of category frequencies, foregrounding precise combinations of categories that are commonly observed across individual data items. This can provide insights that are distinct from but complementary to those revealed by Staircase Plots. The proposed techniques have practical value for linguists who frequently deal with categorical data and wish to enhance their workflows for data exploration, anomaly detection, knowledge discovery and hypothesis testing. The interactive nature of these tools encourages the user to uncover patterns that may otherwise go unnoticed, by examining the data from multiple perspectives.
+
+References:
+- Burnette, J., & Calude, A. S. (2022). Wake up New Zealand! Directives, politeness and stance in Twitter #Covid19NZ posts. Journal of Pragmatics, 196, 6-23.
+- Dryer, M. S., & Haspelmath, M. (2013). The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://wals.info, Accessed on 2022-10-10.)
+- Levshina, N. (2015). How to do linguistics with R: Data exploration and statistical analysis. John Benjamins Publishing Company.
+- Stefanowitsch, A. (2020). Corpus linguistics: A guide to the methodology. Language Science Press.
+- Trye, D. (2022, April 11-14). Visualising multivariate categorical data. In Proceedings of the IEEE Pacific Visualization Symposium (PacificVis), Tsukuba, Japan.
