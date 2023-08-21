@@ -4,7 +4,7 @@ collection: talks
 type: "Guest lecture"
 permalink: /talks/2020-networks
 venue: "University of Waikato"
-date: 2020-04-29
+date: 2020-09-14
 location: "Hamilton, New Zealand"
 ---
 

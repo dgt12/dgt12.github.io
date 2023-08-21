@@ -10,7 +10,7 @@ location: "Brazil"
 
 Joint presentation with [Andreea S. Calude](https://profiles.waikato.ac.nz/andreea.calude).
 
-Quick links: [programme](https://www.linguistweets.org/linguistweets-2020/en/program/), [thread](https://twitter.com/TryeDavid/status/1335037615326674944}
+Quick links: [programme](https://www.linguistweets.org/linguistweets-2020/en/program/), [thread](https://twitter.com/TryeDavid/status/1335037615326674944)
 
 Joint presentation with [Andreea S. Calude](https://profiles.waikato.ac.nz/andreea.calude) for "the first international Twitter conference on linguistics".
 
