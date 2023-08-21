@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm studying towards a PhD in Computer Science at the [University of Waikato](https://www.waikato.ac.nz/), based in Hamilton, New Zealand (not far from [Hobbiton](https://www.hobbitontours.com/))! 
+I'm studying towards a PhD in Computer Science at the [University of Waikato](https://www.waikato.ac.nz/), based in Hamilton, New Zealand &ndash; which isn't far from [Hobbiton](https://www.hobbitontours.com/)! 
 
 My long-suffering supervisors are [Professor Mark Apperley](https://profiles.waikato.ac.nz/mark.apperley), [Professor David Bainbridge](https://profiles.waikato.ac.nz/david.bainbridge) and [Dr Andreea Calude](https://profiles.waikato.ac.nz/andreea.calude). Against their better judgement, they're helping me to develop **novel visualisation techniques for exploring categorical and set-based data**. (I won't bore you with the details; just know that my work is crucial to humanity and, like all PhDs, will most definitely "transform the way we think or act".)
 
