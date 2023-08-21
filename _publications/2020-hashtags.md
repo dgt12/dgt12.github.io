@@ -5,7 +5,7 @@ permalink: /publication/2020-hashtags
 date: 2020-04-19
 venue: "Frontiers Special Issue in Computational Sociolinguistics"
 paperurl: "https://doi.org/10.3389/frai.2020.00015"
-citation: "Trye, D., Calude, A. S., Bravo-Marquez, F., & Keegan, T. T. (2022). Hybrid hashtags: #YouKnowYoureAKiwiWhen your tweet contains Māori and English. <i>Frontiers Special Issue in Computational Sociolinguistics</i>, <i>3</i>."
+citation: "Trye, D., Calude, A. S., Bravo-Marquez, F., & Keegan, T. T. (2020). Hybrid hashtags: #YouKnowYoureAKiwiWhen your tweet contains Māori and English. <i>Frontiers Special Issue in Computational Sociolinguistics</i>, <i>3</i>."
 ---
 
 Quick links: [paper](https://www.frontiersin.org/articles/10.3389/frai.2020.00015/full), [data](https://kiwiwords.cms.waikato.ac.nz/corpus/#hybrid-hashtags), [code](https://github.com/Waikato/kiwiwords/blob/master/hybrid_hashtags/hybrid-hashtags.py)
