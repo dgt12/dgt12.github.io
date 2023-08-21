@@ -1,7 +1,7 @@
 ---
 title: "Using Visualisation Toolkits"
 collection: talks
-type: "Guest lecture for COMPX532-23A/DSIGN532-23A"
+type: "Guest lecture"
 permalink: /talks/2023-guest
 venue: "University of Waikato"
 date: 2023-03-23
