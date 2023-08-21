@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "When loanwords are not lone words: Using networks and hypergraphs to explore Māori loanwords in New Zealand English"
 collection: publications
 permalink: /publication/2023-example
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://dgt12.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper explores Māori loanwords in New Zealand English using networks and hypergraphs.'
+date: 2023-08-21
+venue: 'International Journal of Corpus Linguistics'
+paperurl: 'https://doi.org/10.1075/ijcl.21124.try'
+citation: 'Trye, D., Calude, A. S., Keegan, T. T., & Falconer, J. (2023). "When loanwords are not lone words: Using networks and hypergraphs to explore Māori loanwords in New Zealand English." *International Journal of Corpus Linguistics*.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://dgt12.github.io/files/paper1.pdf)
+This paper explores Māori loanwords in New Zealand English using networks and hypergraphs.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Read the paper](https://doi.org/10.1075/ijcl.21124.try)
+
+Accepted manuscript: [PDF](http://dgt12.github.io/files/IJCL_am.pdf)
+Code repository: [GitHub](https://github.com/Waikato/kiwiwords/tree/master/loanword_networks)
