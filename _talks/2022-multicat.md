@@ -10,7 +10,7 @@ location: "Japan"
 
 Quick links: [paper](http://dgt12.github.io/files/pvis22_paper.pdf), [poster](http://dgt12.github.io/files/pvis22_poster.pdf), [preview video](https://www.youtube.com/watch?v=XhXKs92io5I), [supplementary figure](http://dgt12.github.io/images/pvis22_sm.jpg)
 
-Recommended citation: Trye, D. (2022, April 11-14). <i>Visualising multivariate categorical data</i> [Poster presentation]. 2022 IEEE 15th Pacific Visualization Symposium (PacificVis), Tsukuba, Japan. https://dgt12.github.io/files/pvis22_paper.pdf
+Recommended citation: Trye, D. (2022, April 11-14). <i>Visualising multivariate categorical data</i> [Poster presentation]. 2022 IEEE 15th Pacific Visualization Symposium (PacificVis), Tsukuba, Japan. [https://dgt12.github.io/files/pvis22_paper.pdf](https://dgt12.github.io/files/pvis22_paper.pdf)
 
 Despite categorical dimensions being common in real-world datasets, few visualisation techniques support the analysis of
 multiple categorical variables at the same time. Those methods that do exist do not scale well, or do not consider relationships
