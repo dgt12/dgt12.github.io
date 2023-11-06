@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm studying towards a PhD in Computer Science at the [University of Waikato](https://www.waikato.ac.nz/), based in Hamilton, New Zealand. Our campus isn't far from [Hobbiton](https://www.hobbitontours.com/)! I began my PhD on the auspicious date of April 1 2020, which also happened to be during our first nation-wide Covid lockdown... 
+I'm studying towards a PhD in Computer Science at the [University of Waikato](https://www.waikato.ac.nz/), based in Hamilton, New Zealand - which isn't from [Hobbiton](https://www.hobbitontours.com/)! I began my PhD during our first nation-wide lockdown, on the auspicious date of 1 April 2020.
 
 My long-suffering supervisors are [Professor Mark Apperley](https://profiles.waikato.ac.nz/mark.apperley), [Professor David Bainbridge](https://profiles.waikato.ac.nz/david.bainbridge) and [Dr Andreea Calude](https://profiles.waikato.ac.nz/andreea.calude). Against their better judgement, they're helping me to develop **novel visualisation techniques for exploring multidimensional categorical data**. (I won't bore you with the details; just know that my work is crucial to humanity and, like all PhDs, will most definitely "transform the way we think or act".)
 
