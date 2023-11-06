@@ -14,7 +14,7 @@ My long-suffering supervisors are [Professor Mark Apperley](https://profiles.wai
 
 Being a self-professed linguistics nerd, I'm particularly interested in applying my very important techniques (VITs?) to language analysis. More often than not, that means I'm working with New Zealand English (NZE) or [te reo Māori](http://www.maorilanguage.info/mao_lang_desc1.html), the Indigenous language of Aotearoa New Zealand. Check out [Kiwi Words](https://kiwiwords.cms.waikato.ac.nz/) for more information about related projects.
 
-In my spare time, I enjoy eating chocolate, reading, travelling, playing games (but weirdly, not gaming), eating chocolate, exploring the outdoors and generally keeping active. Did I mention I have a chocolate addiction? My family and friends can attest to my razor-sharp wit and likeability (not to mention my modesty). 
+In my spare time, I enjoy reading, travelling, playing games (but weirdly, not gaming), exploring the outdoors and generally keeping active. Did I mention I have a chocolate addiction? My family and friends can attest to my razor-sharp wit and likeability (not to mention my modesty). 
 
 Feel free to reach out if you'd like to know more!
 
