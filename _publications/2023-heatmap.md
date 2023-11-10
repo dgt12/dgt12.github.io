@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-heatmap
 date: 2023-11-20
 venue: "27th International Conference on Information Visualisation (IV)"
-paperurl: "http://dgt12.github.io/files/hm.pdf"
+paperurl: "https://doi.org/10.1109/IV60283.2023.00016"
 citation: "Trye, D., Apperley, M., & Bainbridge, D. (2023). Extending the Heatmap Matrix: Pairwise analysis of multivariate categorical data. In <i>2023 27th International Conference Information Visualisation (IV)</i>, pp. 29-36. Tampere, Finland: IEEE."
 ---
 
