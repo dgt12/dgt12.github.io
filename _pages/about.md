@@ -14,6 +14,6 @@ I recently submitted my PhD thesis in Computer Science at the [University of Wai
 **I am moving to the UK in August 2024 and am actively seeking a role in Data Science or Software Engineering.** Feel free to reach out if you have any opportunities or would like to know more!
 
 In my spare time, I enjoy reading, travelling, playing games (but weirdly, not gaming), exploring the outdoors and generally keeping active. Did I mention I have a chocolate addiction? 
-My family and friends can attest to my razor-sharp wit and likeability (not to mention my modesty). 
+My family and friends can attest to my razor-sharp wit and likeability, not to mention my modesty!
 
 As a self-professed language nerd from Aotearoa, I have researched aspects of New Zealand English (NZE) and [te reo Māori](http://www.maorilanguage.info/mao_lang_desc1.html). Check out [Kiwi Words](https://kiwiwords.cms.waikato.ac.nz/) for more information about related projects.
