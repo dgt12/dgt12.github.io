@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kia ora, I'm David!"
+title: "Hi there, I'm David!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm studying towards a PhD in Computer Science at the [University of Waikato](https://www.waikato.ac.nz/), based in Hamilton, New Zealand -- which isn't far from [Hobbiton](https://www.hobbitontours.com/)! I began my PhD during our first nation-wide lockdown, on the auspicious date of April 1 2020.
+I recently submitted my PhD thesis in Computer Science at the [University of Waikato](https://www.waikato.ac.nz/), based in Hamilton, New Zealand. My research focused on developing novel visualisation techniques for categorical data and demonstrating their effectiveness through applications in linguistics. (I won't bore you with the details; just know that my work is crucial to humanity and, like all PhDs, will most definitely "transform the way we think or act".)
 
-My long-suffering supervisors are [Professor Mark Apperley](https://profiles.waikato.ac.nz/mark.apperley), [Professor David Bainbridge](https://profiles.waikato.ac.nz/david.bainbridge) and [Dr Andreea Calude](https://profiles.waikato.ac.nz/andreea.calude). Against their better judgement, they're helping me to develop **novel visualisation techniques for exploring multidimensional categorical data**. (I won't bore you with the details; just know that my work is crucial to humanity and, like all PhDs, will most definitely "transform the way we think or act".)
+**I am moving to the UK in August 2024 and am actively seeking a role in Data Science or Software Engineering.**
 
-Being a self-professed linguistics nerd, I'm particularly interested in applying my very important techniques (VITs?) to language analysis. More often than not, that means I'm working with New Zealand English (NZE) or [te reo Māori](http://www.maorilanguage.info/mao_lang_desc1.html), the Indigenous language of Aotearoa New Zealand. Check out [Kiwi Words](https://kiwiwords.cms.waikato.ac.nz/) for more information about related projects.
+In my spare time, I enjoy reading, travelling, playing games (but weirdly, not gaming), exploring the outdoors and generally keeping active. Did I mention I have a chocolate addiction? 
+My family and friends can attest to my razor-sharp wit and likeability (not to mention my modesty). 
 
-In my spare time, I enjoy reading, travelling, playing games (but weirdly, not gaming), exploring the outdoors and generally keeping active. Did I mention I have a chocolate addiction? My family and friends can attest to my razor-sharp wit and likeability (not to mention my modesty). 
+As a self-professed language nerd from Aotearoa, I have researched aspects of New Zealand English (NZE) and [te reo Māori](http://www.maorilanguage.info/mao_lang_desc1.html). Check out [Kiwi Words](https://kiwiwords.cms.waikato.ac.nz/) for more information about related projects.
 
-Feel free to reach out if you'd like to know more!
-
-\*PhD stands for "Please help David", preferably before his next breakdown.
+Feel free to reach out if you have any opportunities or would like to know more!
