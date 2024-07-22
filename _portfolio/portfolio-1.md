@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "MultiCat"
+excerpt: "A novel technique for visualising categorical data<br/><img src='/images/multicat.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+As part of my PhD research, I designed and implemented a novel visualisation technique for categorical data, called MultiCat, which can be [explored interactively](https://dgt12.github.io/multicat/).
