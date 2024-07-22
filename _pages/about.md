@@ -11,7 +11,7 @@ redirect_from:
 
 I recently submitted my PhD thesis in Computer Science at the [University of Waikato](https://www.waikato.ac.nz/), based in Hamilton, New Zealand. My research focused on developing novel visualisation techniques for categorical data and demonstrating their effectiveness through applications in linguistics.
 
-**I am moving to the UK in August 2024 and am actively seeking a role in Data Science or Software Engineering.** Feel free to reach out if you have any opportunities or would like to know more!
+**I am moving to the UK in August 2024 and am actively seeking a role in Data Science or Software Engineering.** Please click [here](http://dgt12.github.io/files/trye_cv.pdf) to download my CV. Feel free to reach out if you have any opportunities or would like to know more!
 
 In my spare time, I enjoy reading, travelling, playing games (but weirdly, not gaming), exploring the outdoors and generally keeping active. Did I mention I have a chocolate addiction? 
 My family and friends can attest to my razor-sharp wit and likeability, not to mention my modesty!
