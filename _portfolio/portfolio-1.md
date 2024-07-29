@@ -1,6 +1,6 @@
 ---
 title: "MultiCat"
-excerpt: "I designed and implemented a novel technique for visualising categorical data.<br/><img src='/images/multicat_thumb.png'>"
+excerpt: "I designed and implemented a novel technique for visualising categorical data.<br/><img src='/images/multicat.png'>"
 collection: portfolio
 ---
 
