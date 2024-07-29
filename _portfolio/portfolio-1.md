@@ -5,5 +5,5 @@ collection: portfolio
 ---
 
 
-As part of my PhD research, I designed and implemented MultiCat, a novel visualisation technique for exploring categorical data. You can [try it out](https://dgt12.github.io/multicat/) for yourself or [read more about it](https://dgt12.github.io/files/multicat.pdf/).
-![MultiCat interface showing the Titanic dataset](/images/multicat.pdf)
+As part of my PhD research, I designed and implemented MultiCat, a novel visualisation technique for exploring categorical data. You can [try it out for yourself](https://dgt12.github.io/multicat/) or [read more about it](https://dgt12.github.io/files/multicat.pdf).
+![MultiCat interface showing the Titanic dataset](http://dgt12.github.io/images/multicat.png)
