@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I began working as a Data Engineer at [eXate](https://www.exate.com/), a data privacy and security company, in October 2024.
+In October 2024, I started working as a Data Engineer at [eXate](https://www.exate.com/), a data privacy and security company. I use Python, Scala and SQL in conjunction with several big data technologies and platforms.
 
-Before that, I submitted my PhD thesis in Computer Science at the [University of Waikato](https://www.waikato.ac.nz/), based in Hamilton, New Zealand. My research focused on developing novel visualisation techniques for categorical data and demonstrating their effectiveness through applications in linguistics.
+Previously, I completed a PhD in Computer Science at the [University of Waikato](https://www.waikato.ac.nz/) in Hamilton, New Zealand. My research focused on developing novel visualisation techniques for categorical data and demonstrating their effectiveness through applications in linguistics.
 
 In my spare time, I enjoy reading, travelling, playing games (but weirdly, not gaming), exploring the outdoors and generally keeping active. Did I mention I have a chocolate addiction? 
 My family and friends can attest to my razor-sharp wit and likeability, not to mention my modesty!
