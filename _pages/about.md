@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-In October 2024, I started working as a Data Engineer at [eXate](https://www.exate.com/), a data privacy and security company based in London. I use Python, Scala and SQL in conjunction with several big data technologies and platforms.
+In October 2024, I started working as a Data Engineer at [eXate](https://www.exate.com/), a data privacy and security company based in London. I leverage big data technologies to design scalable pipelines and address complex data privacy challenges.
 
 Previously, I completed a PhD in Computer Science at the [University of Waikato](https://www.waikato.ac.nz/) in Hamilton, New Zealand. My research focused on developing novel visualisation techniques for categorical data and validating those techniques through applications in linguistics.
 
