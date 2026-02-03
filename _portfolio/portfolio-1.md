@@ -1,13 +1,12 @@
 ---
-title: "MultiCat"
-excerpt: "I designed and implemented a novel technique for visualising categorical data.<br/><br/><a href='http://dgt12.github.io/multicat/'><img src='/images/multicat.png' style='height: 300px;'></a>"
+title: "Heatmap Matrix Explorer"
+excerpt: "I created a web-based prototype to demonstrate a visualisation technique for analysing pairs of categorical variables.<br/><br/><a href='http://dgt12.github.io/heatmap-explorer/'><img src='/images/heatmap-explorer.png' style='height: 300px;'></a>"
 collection: portfolio
 ---
 
 
-As part of my PhD research, I designed and implemented *MultiCat*, a novel visualisation technique for exploring multidimensional categorical data. 
-I mastered the basics of Svelte so that I could create a web-based prototype for demonstration purposes. 
+Following my PhD research, I created a web-based prototype of the *Heatmap Matrix Explorer*, a visualisation technique for exploring pairs of categorical variables. 
 
-You can [try it out for yourself](https://dgt12.github.io/multicat/) or [read more about it](https://dgt12.github.io/files/multicat.pdf).
+You can [try it yourself](https://dgt12.github.io/heatmap-explorer/) or [read more about it](https://dgt12.github.io/files/hm.pdf).
 
-[![MultiCat interface showing the Titanic dataset](http://dgt12.github.io/images/multicat.png)](http://dgt12.github.io/multicat/)
+[![Heatmap Matrix Explorer prototype showing the Titanic dataset](http://dgt12.github.io/images/heatmap-explorer.png)](http://dgt12.github.io/heatmap-explorer/)

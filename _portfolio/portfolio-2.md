@@ -1,15 +1,13 @@
 ---
-title: "Analysing Māori Loanwords on Twitter"
-excerpt: "I used computational methods to collect, clean and analyse a corpus of English tweets containing Māori loanwords.<br/><img src='/images/whanau.png' style='height: 300px;'>"
+title: "MultiCat"
+excerpt: "I designed and implemented a novel technique for visualising multivariate categorical data.<br/><br/><a href='http://dgt12.github.io/multicat/'><img src='/images/multicat.png' style='height: 300px;'></a>"
 collection: portfolio
 ---
 
-For my Honours project, I used machine learning (ML) and natural language processing (NLP) techniques to collect, clean and analyse a [corpus of nearly three million tweets containing Māori loanwords](https://kiwiwords.cms.waikato.ac.nz/corpus/).
 
-My project gained media attention:
+As part of my PhD research, I designed and implemented *MultiCat*, a novel visualisation technique for exploring multidimensional categorical data. 
+I mastered the basics of Svelte so that I could create a web-based prototype for demonstration purposes. 
 
-- Interview for Stuff NZ, [Māori loanwords enrich Twitter](https://www.stuff.co.nz/science/113958987/mori-loanwords-enrich-twitter), 8 July 2019
-- Interview for Radio NZ, [NZ’s unique te reo tweets](https://www.rnz.co.nz/news/te-manu-korihi/382254/nz-s-unique-te-reo-tweets), 12 February 2019
-- Coverage from the University of Waikato, [When machine learning, Twitter and te reo Māori merge](https://web.archive.org/web/20240302210012/https://www.waikato.ac.nz/news-opinion/media/2019/when-machine-learning-twitter-and-te-reo-maori-merge), 11 February 2019
+You can [try it yourself](https://dgt12.github.io/multicat/) or [read more about it](https://dgt12.github.io/files/multicat.pdf).
 
-[![Word embeddings for 'whanau' (family)](http://dgt12.github.io/images/whanau.png)](https://kiwiwords.cms.waikato.ac.nz/corpus/)
+[![MultiCat interface showing the Titanic dataset](http://dgt12.github.io/images/multicat.png)](http://dgt12.github.io/multicat/)

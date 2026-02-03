@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-In October 2024, I started working as a Data Engineer at [eXate](https://www.exate.com/), a data privacy and security company based in London. I leverage big data technologies to design scalable pipelines and address complex data privacy challenges.
+I'm a Data Engineer at [eXate](https://www.exate.com/), a London-based data privacy and security company. I design scalable pipelines and build solutions that help organisations to protect sensitive data at scale.
 
-Previously, I completed a PhD in Computer Science at the [University of Waikato](https://www.waikato.ac.nz/) in Hamilton, New Zealand. [My research](https://hdl.handle.net/10289/17049) focused on developing novel visualisation techniques for categorical data and validating those techniques through applications in linguistics.
+Prior to this, I completed a PhD in Computer Science at the [University of Waikato](https://www.waikato.ac.nz/) in Hamilton, New Zealand. [My research](https://hdl.handle.net/10289/17049) focused on developing visualisation techniques for categorical data and validating those techniques through applications in linguistics.
 
 In my spare time, I enjoy reading, travelling, playing games (but weirdly, not gaming), exploring the outdoors and generally keeping active. Did I mention I have a chocolate addiction? 
 My family and friends can attest to my razor-sharp wit and likeability, not to mention my modesty!
