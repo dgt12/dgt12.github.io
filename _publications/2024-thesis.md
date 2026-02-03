@@ -8,7 +8,7 @@ paperurl: "https://hdl.handle.net/10289/17049"
 citation: "Trye, D. (2024). <i>Visualising categorical data: Linguistic case studies from te Reo Māori and New Zealand English.</i> (Doctoral thesis, The University of Waikato, Hamilton, New Zealand). The University of Waikato."
 ---
 
-Quick links: [PhD thesis](https://hdl.handle.net/10289/17049), [CatVis database](https://cat-vis.github.io/src/), [Heatmap Matrix  Explorer](https://dgt12.github.io/heatmap-explorer/, [MultiCat](https://dgt12.github.io/multicat/)
+Quick links: [PhD thesis](https://hdl.handle.net/10289/17049), [CatVis database](https://cat-vis.github.io/src/), [Heatmap Matrix  Explorer](https://dgt12.github.io/heatmap-explorer/), [MultiCat](https://dgt12.github.io/multicat/)
 
 Categorical variables are prevalent in real-world datasets across numerous domains, yet few visualisation techniques accommodate them effectively. This is especially true of datasets comprising three or more categorical variables, termed multivariate categorical data. Visualising such data is challenging due to the lack of inherent ordering of nominal categories, the so-called ‘curse of dimensionality’, and the potential variability in the number of categories per variable. Corpus linguistics, which involves the study of large digital collections of naturally occurring language, serves as the primary application domain in this thesis. This domain was chosen because it is rich in multivariate categorical data and, at the same time, is often visualised using only basic techniques.
 
