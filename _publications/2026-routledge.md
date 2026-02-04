@@ -5,7 +5,7 @@ permalink: /publication/2026-routledge
 date: 2026-03-04
 venue: "Routledge Handbook"
 paperurl: "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003360339-32/language-contact-phenomena-social-media-andreea-calude-david-trye"
-citation: "Calude, A. S., & Trye, D. (2026). Language contact phenomena on social media: Perspectives from te Reo Māori and New Zealand English. In <i>The Routledge Handbook of Language and Social Media around the World</i> (pp. 391-404). Routledge.
+citation: "Calude, A. S., & Trye, D. (2026). Language contact phenomena on social media: Perspectives from te Reo Māori and New Zealand English. In <i>The Routledge Handbook of Language and Social Media around the World</i> (pp. 391-404). Routledge."
 ---
 
 Quick links: [paper](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003360339-32/language-contact-phenomena-social-media-andreea-calude-david-trye)
